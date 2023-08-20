@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TexTify/static/css/main.abd64e84.css",
+    "main.js": "/TexTify/static/js/main.59805141.js",
+    "index.html": "/TexTify/index.html",
+    "main.abd64e84.css.map": "/TexTify/static/css/main.abd64e84.css.map",
+    "main.59805141.js.map": "/TexTify/static/js/main.59805141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.59805141.js"
+  ]
+}
