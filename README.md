@@ -1,4 +1,8 @@
 
+TexTify - Transforming Your Text Experience
+
+Welcome to TexTify, your ultimate destination for enhancing and manipulating text in a multitude of ways. Our web application is designed to empower you with the tools you need to make your text truly stand out, offering a range of features that go beyond the ordinary. Whether you're a writer, student, designer, or just someone who loves playing with words, TexTify is here to elevate your text experience.
+
 ### `npm start`
 
 Runs the app in the development mode.
